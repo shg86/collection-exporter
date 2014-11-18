@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportLibrary", "ExportLibrary\ExportLibrary.csproj", "{C41C1C8E-4ED9-4D02-B173-97FD1757F323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportLibrary.Test", "ExportLibrary.Test\ExportLibrary.Test.csproj", "{5F141990-2F2E-4496-9945-07A46B0B25A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41C1C8E-4ED9-4D02-B173-97FD1757F323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41C1C8E-4ED9-4D02-B173-97FD1757F323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41C1C8E-4ED9-4D02-B173-97FD1757F323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41C1C8E-4ED9-4D02-B173-97FD1757F323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F141990-2F2E-4496-9945-07A46B0B25A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F141990-2F2E-4496-9945-07A46B0B25A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F141990-2F2E-4496-9945-07A46B0B25A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F141990-2F2E-4496-9945-07A46B0B25A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

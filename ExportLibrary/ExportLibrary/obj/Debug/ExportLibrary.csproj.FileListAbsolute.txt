@@ -1,0 +1,10 @@
+D:\Software\GenericsExtensions\GenericsExtensions\bin\Debug\GenericsExtensions.dll
+D:\Software\GenericsExtensions\GenericsExtensions\bin\Debug\GenericsExtensions.pdb
+D:\Software\GenericsExtensions\GenericsExtensions\obj\Debug\ExportLibrary.csprojResolveAssemblyReference.cache
+D:\Software\GenericsExtensions\GenericsExtensions\obj\Debug\GenericsExtensions.dll
+D:\Software\GenericsExtensions\GenericsExtensions\obj\Debug\GenericsExtensions.pdb
+D:\Software\ExportLibrary\ExportLibrary\bin\Debug\ExportLibrary.dll
+D:\Software\ExportLibrary\ExportLibrary\bin\Debug\ExportLibrary.pdb
+D:\Software\ExportLibrary\ExportLibrary\obj\Debug\ExportLibrary.csprojResolveAssemblyReference.cache
+D:\Software\ExportLibrary\ExportLibrary\obj\Debug\ExportLibrary.dll
+D:\Software\ExportLibrary\ExportLibrary\obj\Debug\ExportLibrary.pdb

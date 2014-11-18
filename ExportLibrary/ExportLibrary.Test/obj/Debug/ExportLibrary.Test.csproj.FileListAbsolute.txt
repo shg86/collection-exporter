@@ -1,0 +1,14 @@
+D:\Software\GenericsExtensions\ExportLibrary.Test\bin\Debug\ExportLibrary.Test.dll
+D:\Software\GenericsExtensions\ExportLibrary.Test\bin\Debug\ExportLibrary.Test.pdb
+D:\Software\GenericsExtensions\ExportLibrary.Test\bin\Debug\GenericsExtensions.dll
+D:\Software\GenericsExtensions\ExportLibrary.Test\bin\Debug\GenericsExtensions.pdb
+D:\Software\GenericsExtensions\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.csprojResolveAssemblyReference.cache
+D:\Software\GenericsExtensions\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.dll
+D:\Software\GenericsExtensions\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.pdb
+D:\Software\ExportLibrary\ExportLibrary.Test\bin\Debug\ExportLibrary.Test.dll
+D:\Software\ExportLibrary\ExportLibrary.Test\bin\Debug\ExportLibrary.Test.pdb
+D:\Software\ExportLibrary\ExportLibrary.Test\bin\Debug\ExportLibrary.dll
+D:\Software\ExportLibrary\ExportLibrary.Test\bin\Debug\ExportLibrary.pdb
+D:\Software\ExportLibrary\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.csprojResolveAssemblyReference.cache
+D:\Software\ExportLibrary\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.dll
+D:\Software\ExportLibrary\ExportLibrary.Test\obj\Debug\ExportLibrary.Test.pdb
